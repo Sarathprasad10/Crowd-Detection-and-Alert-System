@@ -101,7 +101,7 @@ def process_video(video_path, bot_token, chat_id):
     cv2.destroyAllWindows()
 
 # Replace with your Telegram bot token and chat ID
-BOT_TOKEN = "7671901927:AAHDXNIXnp5I3HD_AgjBpzrLByRWKOHUqLM"
+BOT_TOKEN = ""
 CHAT_ID = "1125896620"  # Replace with your chat ID or group's chat ID
 VIDEO_PATH = r"C:\Users\LENOVO\Desktop\Telegram\Walking.mp4"
 # Run the program
